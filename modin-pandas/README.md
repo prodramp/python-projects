@@ -4,4 +4,6 @@
 - [modin-github](https://github.com/modin-project/modin)
 
 ## Compare the performance between pandas and modin-pandas with global wildfire hotspot data processing and visualization ##
-![Wildfire Hotspots Hetmap ](https://github.com/prodramp/python-projects/raw/main/images/heatmap-wildfire-hotspots.png)
+![Wildfire Hotspots Hetmap](https://github.com/prodramp/python-projects/raw/main/images/heatmap-wildfire-hotspots.png)
+
+![Wildfire Hotspots Hexmap](https://github.com/prodramp/python-projects/raw/main/images/hexmap-wildfire-hotspots.png)
