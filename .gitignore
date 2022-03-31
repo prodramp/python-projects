@@ -2,8 +2,8 @@ node_modules/
 .DS_Store
 .env
 .idea/
-.csv
-.gz
+*.csv
+*.csv.gz
 .idea/vcs.xml
 .ipynb_checkpoints/
 package-lock.json
