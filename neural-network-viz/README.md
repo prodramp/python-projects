@@ -4,7 +4,8 @@ Understanding through code and visualization
 ![](https://github.com/prodramp/python-projects/blob/main/images/main-yt-sm.png?raw=true)
 
 ### YouTube Video: ###
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0mVZhEv9Xo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0mVZhEv9Xo0/0.jpg)](https://www.youtube.com/watch?v=0mVZhEv9Xo0)
+
 
 ### Resources ##
 - https://playground.tensorflow.org/
