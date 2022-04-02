@@ -4,7 +4,13 @@ Understanding through code and visualization
 ![](https://github.com/prodramp/python-projects/blob/main/images/main-yt-sm.png?raw=true)
 
 ### YouTube Video: ###
+ifdef::env-github[]
+image:https://img.youtube.com/vi/rAteGra5-xM/maxresdefault.jpg[link=https://youtu.be/rAteGra5-xM]
+endif::[]
 
+ifndef::env-github[]
+video::VewDN_riENw[youtube]
+endif::[]
 
 ### Resources ##
 - https://playground.tensorflow.org/
