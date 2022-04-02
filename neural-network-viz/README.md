@@ -4,13 +4,7 @@ Understanding through code and visualization
 ![](https://github.com/prodramp/python-projects/blob/main/images/main-yt-sm.png?raw=true)
 
 ### YouTube Video: ###
-ifdef::env-github[]
-image:https://img.youtube.com/vi/rAteGra5-xM/maxresdefault.jpg[link=https://youtu.be/rAteGra5-xM]
-endif::[]
-
-ifndef::env-github[]
-video::VewDN_riENw[youtube]
-endif::[]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0mVZhEv9Xo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Resources ##
 - https://playground.tensorflow.org/
