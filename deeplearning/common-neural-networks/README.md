@@ -4,6 +4,15 @@
 
 ![A group of most used neural networks](https://github.com/prodramp/python-projects/blob/main/images/neural-networks-small.png?raw=true)
 
+At higher level:
+- Single Layer Network - Perceptron - Input + Output
+- Multiple Layer Perceptron: (Regular neural network) - Input + Layers + Output
+
+### Regular Neural Network (Multiple Layer Perceptron) ###
+A neural network (Multiple Layer Perceptron: Regular neural network ): It does a linear combination (a mathematical operation) between the previous layer's output and the current layer's weights(vectors) and then it passes data to the next layer by passing through an activation function. The picture shows a unit of a layer.
+![](https://github.com/prodramp/python-projects/blob/main/images/mlp-reg-nn.png?raw=true)
+
+
 ### CNN - Convolution Neural Network ###
 The convolutional-neural-network is a subclass of neural-networks which have at least one convolution layer. 
 - They are great for capturing local information (e.g. neighbor pixels in an image or surrounding words in a text)
@@ -17,7 +26,15 @@ The convolutional-neural-network is a subclass of neural-networks which have at 
 
 
 ### What is convolution? ###
-![](https://i.stack.imgur.com/AV512.gif)
+The everyday definition of convolution comes from the Latin convolutus meaning 'to roll together'. Hence the meaning twisted or complicated.
+
+The mathematical definition comes from the same root, with the interpretation of taking a "rolling average".
+Hence in Machine Learning, a convolution is a sliding window across an input creating one averaged output for each stride the window takes. I.e. the values covered by the window are convoluted to create one convoluted output. This is best demonstrated with an a diagram:
+![](https://github.com/prodramp/python-projects/blob/main/images/cnn-conv-ani2.gif?raw=true)
+
+A neural network (Convolutional Neural Network): It does convolution (In signal processing it's known as Correlation) (Its a mathematical operation) between the previous layer's output and the current layer's kernel ( a small matrix ) and then it passes data to the next layer by passing through an activation function. The picture shows a Convolution operation. Each layer may have many convolution operation
+
+![](https://github.com/prodramp/python-projects/blob/main/images/cnn-conv-ani.gif?raw=true)
 
 ### Resources ###
 - https://ai.stackexchange.com/questions/5546/what-is-the-difference-between-a-convolutional-neural-network-and-a-regular-neur
