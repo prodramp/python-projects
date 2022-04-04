@@ -2,6 +2,7 @@ node_modules/
 .DS_Store
 .env
 .idea/
+*.h5
 *.csv
 *.csv.gz
 .idea/vcs.xml
