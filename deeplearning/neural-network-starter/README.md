@@ -1,4 +1,6 @@
 
+### YouTube Tutorial for this content: ###
+[![Build your very first Neural Network from scratch in Python -  DL for Absolute Beginners](https://img.youtube.com/vi/VewDN_riENw/0.jpg)](https://youtu.be/lnkqiJ1wOfI)
 
 
 ### Previous YouTube Video: ###
