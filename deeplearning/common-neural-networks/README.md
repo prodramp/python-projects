@@ -16,6 +16,8 @@ The convolutional-neural-network is a subclass of neural-networks which have at 
   - **Pooling and ReLU:** CNNs have two non-linearities: pooling layers and ReLU functions. Pooling layers consider a block of input data and simply pass on the maximum value. Doing this reduces the size of the output and requires no added parameters to learn, so pooling layers are often used to regulate the size of the network and keep the system below a computational limit. The ReLU function takes one input, x, and returns the maximum of {0, x}. ReLU(x) = argmax(x, 0). This introduces a similar effect to tanh(x) or sigmoid(x) as non-linearities to increase the model's expressive power.
 
 
+### What is convolution? ###
+![](https://i.stack.imgur.com/AV512.gif)
 
 ### Resources ###
 - https://ai.stackexchange.com/questions/5546/what-is-the-difference-between-a-convolutional-neural-network-and-a-regular-neur
