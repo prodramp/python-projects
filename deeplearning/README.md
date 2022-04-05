@@ -1,6 +1,7 @@
 ## Your source for Deep learning ## 
 ### For the absolute beginners to experts ###
 
+
 ### YouTube Video #1: Getting started ###
 [![How to transform & improve your deep learning code to a visual neural network?](https://img.youtube.com/vi/VewDN_riENw/0.jpg)](https://www.youtube.com/watch?v=VewDN_riENw)
 
