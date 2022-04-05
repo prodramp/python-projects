@@ -38,4 +38,6 @@ A neural network (Convolutional Neural Network): It does convolution (In signal 
 
 ### Resources ###
 - https://ai.stackexchange.com/questions/5546/what-is-the-difference-between-a-convolutional-neural-network-and-a-regular-neur
-- 
+- https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6
+- https://medium.com/aiguys/deep-convolutional-neural-networks-dcnns-explained-in-layman-terms-b990b2818061
+- https://medium.com/mlearning-ai/basic-concepts-in-machine-learning-a20de41137cc (TLDR)
