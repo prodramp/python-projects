@@ -16,3 +16,4 @@
 
 ### Resources ###
 - https://towardsdatascience.com/what-the-hell-is-perceptron-626217814f53
+- https://insideaiml.com/blog/Activation-Functions-in-Neural-Network-1033
