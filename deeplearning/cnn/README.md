@@ -1,7 +1,7 @@
 # Convolutional Neural Network (CNN) #
 
 ### CNN Architecture ###
-![](https://github.com/prodramp/python-projects/blob/main/images/cnn-architecture.png?raw=true)
+![](https://github.com/prodramp/python-projects/blob/main/images/cnn-arch.png?raw=true)
 
 
 ### Step-by-step of the convolution of a 5x5 image with a 3x3 kernel ###
