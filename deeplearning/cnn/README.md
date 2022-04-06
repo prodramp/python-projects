@@ -20,8 +20,13 @@
 ## Pooling ##
 - Pooling size = (x,y)
 - Stride = n
+<div align="center" background-color='white'>
+  <img src="https://github.com/prodramp/python-projects/blob/main/images/pooling-3by3with-Stride2.png?raw=true">
+</div>
 ![](https://github.com/prodramp/python-projects/blob/main/images/pooling-3by3with-Stride2.png?raw=true)
 
+
+Propagation of values through pooling layers with pooling size 3x3 and stride of 2. In this example, the convolutional layers were omitted for clarity.
 
 ### References ###
 - Full Credits to the following content creators for the above images and text content 
