@@ -33,6 +33,7 @@
 <hr>
 
 ### References ###
-- Full Credits to the following content creators for the above images and text content 
+Note: Full Credits to the following content creators for the above images and text content 
 - https://towardsdatascience.com/visualizing-the-fundamentals-of-convolutional-neural-networks-6021e5b07f69
 - https://medium.com/aiguys/deep-convolutional-neural-networks-dcnns-explained-in-layman-terms-b990b2818061
+- https://towardsdatascience.com/dropout-on-convolutional-layers-is-weird-5c6ab14f19b2
