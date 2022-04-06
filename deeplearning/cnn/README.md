@@ -3,7 +3,7 @@
 ### CNN Architecture ###
 ![](https://github.com/prodramp/python-projects/blob/main/images/cnn-arch.png?raw=true)
 
-
+## Convolution ##
 ### Step-by-step of the convolution of a 5x5 image with a 3x3 kernel ###
 ![](https://github.com/prodramp/python-projects/blob/main/images/5x5-img-conv-3x3kernel.png?raw=true)
 
@@ -13,10 +13,14 @@
 ### ReLU function applied after the convolution ###
 ![](https://github.com/prodramp/python-projects/blob/main/images/conv-added-relu.png?raw=true)
 
-
 ### Visual representation of the ReLU function applied after the convolution ###
 ![](https://github.com/prodramp/python-projects/blob/main/images/conv-added-relu-img.png?raw=true)
 
+
+## Pooling ##
+- Pooling size = (x,y)
+- Stride = n
+![](https://github.com/prodramp/python-projects/blob/main/images/pooling-3by3with-Stride2.png?raw=true)
 
 
 ### References ###
