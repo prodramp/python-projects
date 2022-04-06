@@ -26,8 +26,6 @@
 <div align="center" background-color='white'>
   <img src="https://github.com/prodramp/python-projects/blob/main/images/pooling-3by3with-Stride2-white.png">
 </div>
-![](https://github.com/prodramp/python-projects/blob/main/images/pooling-3by3with-Stride2-white.png?raw=true)
-
 <div>
   Propagation of values through pooling layers with pooling size 3x3 and stride of 2. In this example, the convolutional layers were omitted for clarity.
 </div>
