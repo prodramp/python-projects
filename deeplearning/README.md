@@ -8,8 +8,11 @@
     </tr>
     <tr>
         <td>
-            <object data='https://www.youtube.com/embed/oBsCDawNV1o?autoplay=1' width='560px' height='315px'>
-            </object>
+            <div>
+                
+[![How to transform & improve your deep learning code to a visual neural network?](https://img.youtube.com/vi/VewDN_riENw/0.jpg)](https://www.youtube.com/watch?v=VewDN_riENw)
+
+            </div>
       </td>
        <td>
       </td>
