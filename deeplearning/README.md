@@ -49,3 +49,7 @@
 ### Resources ###
 - https://towardsdatascience.com/what-the-hell-is-perceptron-626217814f53
 - https://insideaiml.com/blog/Activation-Functions-in-Neural-Network-1033
+
+    
+### External DL Projects ###
+- https://github.com/aly202012/Basic-Projects-in-Keras-Functonal-API
