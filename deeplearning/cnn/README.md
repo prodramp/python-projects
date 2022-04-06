@@ -24,7 +24,7 @@
 - Pooling size = (x,y)
 - Stride = n
 <div align="center" background-color='white'>
-  <img src="https://github.com/prodramp/python-projects/blob/main/images/pooling-3by3with-Stride2.png?raw=true">
+  <img src="https://github.com/prodramp/python-projects/blob/main/images/pooling-3by3with-Stride2.png">
 </div>
 ![](https://github.com/prodramp/python-projects/blob/main/images/pooling-3by3with-Stride2.png?raw=true)
 
