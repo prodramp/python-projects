@@ -8,7 +8,8 @@
     </tr>
     <tr>
         <td>
-          [![How to transform & improve your deep learning code to a visual neural network?](https://img.youtube.com/vi/VewDN_riENw/0.jpg)](https://www.youtube.com/watch?v=VewDN_riENw)
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/oBsCDawNV1o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
       </td>
        <td>
       </td>
@@ -16,9 +17,7 @@
 </table>
 
 ### YouTube Video #1: Getting started ###
-
-
-
+[![How to transform & improve your deep learning code to a visual neural network?](https://img.youtube.com/vi/VewDN_riENw/0.jpg)](https://www.youtube.com/watch?v=VewDN_riENw)
 
 ### YouTube Tutorial #2: Create your first Neural Network ###
 [![Build your very first Neural Network from scratch in Python -  DL for Absolute Beginners](https://img.youtube.com/vi/lnkqiJ1wOfI/0.jpg)](https://youtu.be/lnkqiJ1wOfI)
