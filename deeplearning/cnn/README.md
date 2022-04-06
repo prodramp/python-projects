@@ -78,4 +78,5 @@ Note: Full Credits to the following content creators for the above images and te
 - https://medium.com/aiguys/deep-convolutional-neural-networks-dcnns-explained-in-layman-terms-b990b2818061
 - https://towardsdatascience.com/dropout-on-convolutional-layers-is-weird-5c6ab14f19b2
 - https://medium.com/@amarbudhiraja/https-medium-com-amarbudhiraja-learning-less-to-learn-better-dropout-in-deep-machine-learning-74334da4bfc5
+- https://github.com/christianversloot/machine-learning-articles/blob/main/how-to-predict-new-samples-with-your-keras-model.md
 - https://www.cs.ryerson.ca/~aharley/vis/conv/flat.html
