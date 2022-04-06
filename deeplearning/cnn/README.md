@@ -53,17 +53,28 @@
 - Convert (10,10,2) => 200
 
 <hr>
-## Dropout
+
+## Dropout ##
+
 - Usage - Dropout(0.2) - 20% of the values randomly set to 0
 - The Dropout layer randomly sets input units to 0 with a frequency of rate at each step during training time, which helps prevent overfitting. 
 - Dropout is commonly used to regularize deep neural networks; however, applying dropout on fully-connected layers and applying dropout on convolutional layers are fundamentally different operations.
 - The Dropout layer randomly sets input units to 0 with a frequency of rate at each step during training time, which helps prevent overfitting.
 - Dropout(0.5) means - creating a dropout layer with a 50% chance of setting inputs to zero.
 
-
+<div align="center">
+  <img src="https://github.com/prodramp/python-projects/blob/main/images/dropout-view.png?raw=true" />
+</div>
+<div align="center">
+Srivastava, Nitish, et al. ”Dropout: a simple way to prevent neural networks from
+overfitting”, JMLR 2014
+<div>
+  
 <hr>
 ### References ###
 Note: Full Credits to the following content creators for the above images and text content 
 - https://towardsdatascience.com/visualizing-the-fundamentals-of-convolutional-neural-networks-6021e5b07f69
 - https://medium.com/aiguys/deep-convolutional-neural-networks-dcnns-explained-in-layman-terms-b990b2818061
 - https://towardsdatascience.com/dropout-on-convolutional-layers-is-weird-5c6ab14f19b2
+- https://medium.com/@amarbudhiraja/https-medium-com-amarbudhiraja-learning-less-to-learn-better-dropout-in-deep-machine-learning-74334da4bfc5
+- https://www.cs.ryerson.ca/~aharley/vis/conv/flat.html
