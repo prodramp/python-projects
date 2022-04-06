@@ -3,7 +3,7 @@
 
 <table class="table table-striped table-bordered table-vcenter">
     <tr>
-        <td align="center"><b>🔥&nbsp; YouTube Video:&nbsp; How to transform & improve your deep learning code to a visual neural network?</b></td>
+        <td align="center"><b>🔥&nbsp; YouTube Video #1:&nbsp; How to transform & improve your deep learning code to a visual neural network?</b></td>
     </tr>
     <tr>
         <td>
@@ -11,19 +11,36 @@
                 
 [![How to transform & improve your deep learning code to a visual neural network?](https://img.youtube.com/vi/VewDN_riENw/0.jpg)](https://www.youtube.com/watch?v=VewDN_riENw)
 
-            </div>
-      </td>
   </tr>
 </table>
 
-### YouTube Video #1: Getting started ###
-[![How to transform & improve your deep learning code to a visual neural network?](https://img.youtube.com/vi/VewDN_riENw/0.jpg)](https://www.youtube.com/watch?v=VewDN_riENw)
+    
+<table class="table table-striped table-bordered table-vcenter">
+    <tr>
+        <td align="center"><b>🔥&nbsp; YouTube Video #2:&nbsp; Build your very first Neural Network from scratch in Python</b></td>
+    </tr>
+    <tr>
+        <td>
+            <div>
+                
+[![Build your very first Neural Network from scratch in Python -  DL for Absolute Beginners](https://img.youtube.com/vi/lnkqiJ1wOfI/0.jpg)](https://www.youtube.com/watch?v=lnkqiJ1wOfI)
 
-### YouTube Tutorial #2: Create your first Neural Network ###
-[![Build your very first Neural Network from scratch in Python -  DL for Absolute Beginners](https://img.youtube.com/vi/lnkqiJ1wOfI/0.jpg)](https://youtu.be/lnkqiJ1wOfI)
+  </tr>
+</table>
 
-### YouTube Tutorial #3: 
+ 
+<table class="table table-striped table-bordered table-vcenter">
+    <tr>
+        <td align="center"><b>🔥&nbsp; YouTube Video #3:&nbsp; How to transform & improve your deep learning code to a visual neural network?</b></td>
+    </tr>
+    <tr>
+        <td>
+            <div>
+                
 [![Create and Visualize your first Perceptron or Feed Forward Network in Python](https://img.youtube.com/vi/oBsCDawNV1o/0.jpg)](https://youtu.be/oBsCDawNV1o)
+
+  </tr>
+</table>
 
 
 ![Neural Networks](https://github.com/prodramp/python-projects/blob/main/deeplearning/neural-networks.png?raw=true)
