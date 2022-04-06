@@ -68,9 +68,10 @@
 <div align="center">
 Srivastava, Nitish, et al. ”Dropout: a simple way to prevent neural networks from
 overfitting”, JMLR 2014
-<div>
+</div>
   
 <hr>
+
 ### References ###
 Note: Full Credits to the following content creators for the above images and text content 
 - https://towardsdatascience.com/visualizing-the-fundamentals-of-convolutional-neural-networks-6021e5b07f69
