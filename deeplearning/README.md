@@ -3,8 +3,7 @@
 
 <table class="table table-striped table-bordered table-vcenter">
     <tr>
-        <td align="center"><b>🛠&nbsp; How to transform & improve your deep learning code to a visual neural network?</b></td>
-        <td align="center"><b>🔥&nbsp; YouTube Video</b></td>
+        <td align="center"><b>🔥&nbsp; YouTube Video:&nbsp; How to transform & improve your deep learning code to a visual neural network?</b></td>
     </tr>
     <tr>
         <td>
@@ -13,8 +12,6 @@
 [![How to transform & improve your deep learning code to a visual neural network?](https://img.youtube.com/vi/VewDN_riENw/0.jpg)](https://www.youtube.com/watch?v=VewDN_riENw)
 
             </div>
-      </td>
-       <td>
       </td>
   </tr>
 </table>
