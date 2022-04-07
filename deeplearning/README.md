@@ -31,17 +31,30 @@
  
 <table class="table table-striped table-bordered table-vcenter">
     <tr>
-        <td align="center"><b>🔥&nbsp; YouTube Video #3:&nbsp; How to transform & improve your deep learning code to a visual neural network?</b></td>
+        <td align="center"><b>🔥&nbsp; YouTube Video #3:&nbsp; Create and Visualize your first Perceptron (P) and  Feed Forward (FF) Network in Python</b></td>
     </tr>
     <tr>
         <td>
             <div>
                 
-[![Create and Visualize your first Perceptron or Feed Forward Network in Python](https://img.youtube.com/vi/oBsCDawNV1o/0.jpg)](https://youtu.be/oBsCDawNV1o)
+[![Create and Visualize your first Perceptron (P) and  Feed Forward (FF) Network in Python](https://img.youtube.com/vi/oBsCDawNV1o/0.jpg)](https://youtu.be/oBsCDawNV1o)
 
   </tr>
 </table>
+    
+<table class="table table-striped table-bordered table-vcenter">
+    <tr>
+        <td align="center"><b>🔥&nbsp; YouTube Video #4:&nbsp; Create and Visualize your first Convolutional Neural Network (CNN) in Pythonk?</b></td>
+    </tr>
+    <tr>
+        <td>
+            <div>
+                
+[![Create and Visualize your first Convolutional Neural Network (CNN) in Python](https://img.youtube.com/vi/1Ckh6Dd3S7g/0.jpg)](https://youtu.be/1Ckh6Dd3S7g)
 
+  </tr>
+</table>
+    
 
 ![Neural Networks](https://github.com/prodramp/python-projects/blob/main/deeplearning/neural-networks.png?raw=true)
 
