@@ -70,3 +70,7 @@
     
 ### External DL Projects ###
 - https://github.com/aly202012/Basic-Projects-in-Keras-Functonal-API
+    
+    
+### University Courses ###
+- http://cs231n.stanford.edu/
