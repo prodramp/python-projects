@@ -1,0 +1,411 @@
+{
+  "info": 
+  {"provider": "Prodramp Inc",
+    "creator": "Avkash Chauhan @avkashchauhan",
+    "Date Created": "April 8, 2022"
+  },
+  "models": 
+  [
+    {
+      "Model": "Xception",
+      "Size (MB)": 88,
+      "Top-1 Accuracy": "79.0%",
+      "Top-5 Accuracy": "94.5%",
+      "Parameters": "22.9M",
+      "Depth": 81,
+      "Time (ms) per inference step (CPU)": 109.4,
+      "Time (ms) per inference step (GPU)": 8.1
+    },
+    {
+      "Model": "VGG16",
+      "Size (MB)": 528,
+      "Top-1 Accuracy": "71.3%",
+      "Top-5 Accuracy": "90.1%",
+      "Parameters": "138.4M",
+      "Depth": 16,
+      "Time (ms) per inference step (CPU)": 69.5,
+      "Time (ms) per inference step (GPU)": 4.2
+    },
+    {
+      "Model": "VGG19",
+      "Size (MB)": 549,
+      "Top-1 Accuracy": "71.3%",
+      "Top-5 Accuracy": "90.0%",
+      "Parameters": "143.7M",
+      "Depth": 19,
+      "Time (ms) per inference step (CPU)": 84.8,
+      "Time (ms) per inference step (GPU)": 4.4
+    },
+    {
+      "Model": "ResNet50",
+      "Size (MB)": 98,
+      "Top-1 Accuracy": "74.9%",
+      "Top-5 Accuracy": "92.1%",
+      "Parameters": "25.6M",
+      "Depth": 107,
+      "Time (ms) per inference step (CPU)": 58.2,
+      "Time (ms) per inference step (GPU)": 4.6
+    },
+    {
+      "Model": "ResNet50V2",
+      "Size (MB)": 98,
+      "Top-1 Accuracy": "76.0%",
+      "Top-5 Accuracy": "93.0%",
+      "Parameters": "25.6M",
+      "Depth": 103,
+      "Time (ms) per inference step (CPU)": 45.6,
+      "Time (ms) per inference step (GPU)": 4.4
+    },
+    {
+      "Model": "ResNet101",
+      "Size (MB)": 171,
+      "Top-1 Accuracy": "76.4%",
+      "Top-5 Accuracy": "92.8%",
+      "Parameters": "44.7M",
+      "Depth": 209,
+      "Time (ms) per inference step (CPU)": 89.6,
+      "Time (ms) per inference step (GPU)": 5.2
+    },
+    {
+      "Model": "ResNet101V2",
+      "Size (MB)": 171,
+      "Top-1 Accuracy": "77.2%",
+      "Top-5 Accuracy": "93.8%",
+      "Parameters": "44.7M",
+      "Depth": 205,
+      "Time (ms) per inference step (CPU)": 72.7,
+      "Time (ms) per inference step (GPU)": 5.4
+    },
+    {
+      "Model": "ResNet152",
+      "Size (MB)": 232,
+      "Top-1 Accuracy": "76.6%",
+      "Top-5 Accuracy": "93.1%",
+      "Parameters": "60.4M",
+      "Depth": 311,
+      "Time (ms) per inference step (CPU)": 127.4,
+      "Time (ms) per inference step (GPU)": 6.5
+    },
+    {
+      "Model": "ResNet152V2",
+      "Size (MB)": 232,
+      "Top-1 Accuracy": "78.0%",
+      "Top-5 Accuracy": "94.2%",
+      "Parameters": "60.4M",
+      "Depth": 307,
+      "Time (ms) per inference step (CPU)": 107.5,
+      "Time (ms) per inference step (GPU)": 6.6
+    },
+    {
+      "Model": "InceptionV3",
+      "Size (MB)": 92,
+      "Top-1 Accuracy": "77.9%",
+      "Top-5 Accuracy": "93.7%",
+      "Parameters": "23.9M",
+      "Depth": 189,
+      "Time (ms) per inference step (CPU)": 42.2,
+      "Time (ms) per inference step (GPU)": 6.9
+    },
+    {
+      "Model": "InceptionResNetV2",
+      "Size (MB)": 215,
+      "Top-1 Accuracy": "80.3%",
+      "Top-5 Accuracy": "95.3%",
+      "Parameters": "55.9M",
+      "Depth": 449,
+      "Time (ms) per inference step (CPU)": 130.2,
+      "Time (ms) per inference step (GPU)": 10
+    },
+    {
+      "Model": "MobileNet",
+      "Size (MB)": 16,
+      "Top-1 Accuracy": "70.4%",
+      "Top-5 Accuracy": "89.5%",
+      "Parameters": "4.3M",
+      "Depth": 55,
+      "Time (ms) per inference step (CPU)": 22.6,
+      "Time (ms) per inference step (GPU)": 3.4
+    },
+    {
+      "Model": "MobileNetV2",
+      "Size (MB)": 14,
+      "Top-1 Accuracy": "71.3%",
+      "Top-5 Accuracy": "90.1%",
+      "Parameters": "3.5M",
+      "Depth": 105,
+      "Time (ms) per inference step (CPU)": 25.9,
+      "Time (ms) per inference step (GPU)": 3.8
+    },
+    {
+      "Model": "DenseNet121",
+      "Size (MB)": 33,
+      "Top-1 Accuracy": "75.0%",
+      "Top-5 Accuracy": "92.3%",
+      "Parameters": "8.1M",
+      "Depth": 242,
+      "Time (ms) per inference step (CPU)": 77.1,
+      "Time (ms) per inference step (GPU)": 5.4
+    },
+    {
+      "Model": "DenseNet169",
+      "Size (MB)": 57,
+      "Top-1 Accuracy": "76.2%",
+      "Top-5 Accuracy": "93.2%",
+      "Parameters": "14.3M",
+      "Depth": 338,
+      "Time (ms) per inference step (CPU)": 96.4,
+      "Time (ms) per inference step (GPU)": 6.3
+    },
+    {
+      "Model": "DenseNet201",
+      "Size (MB)": 80,
+      "Top-1 Accuracy": "77.3%",
+      "Top-5 Accuracy": "93.6%",
+      "Parameters": "20.2M",
+      "Depth": 402,
+      "Time (ms) per inference step (CPU)": 127.2,
+      "Time (ms) per inference step (GPU)": 6.7
+    },
+    {
+      "Model": "NASNetMobile",
+      "Size (MB)": 23,
+      "Top-1 Accuracy": "74.4%",
+      "Top-5 Accuracy": "91.9%",
+      "Parameters": "5.3M",
+      "Depth": 389,
+      "Time (ms) per inference step (CPU)": 27,
+      "Time (ms) per inference step (GPU)": 6.7
+    },
+    {
+      "Model": "NASNetLarge",
+      "Size (MB)": 343,
+      "Top-1 Accuracy": "82.5%",
+      "Top-5 Accuracy": "96.0%",
+      "Parameters": "88.9M",
+      "Depth": 533,
+      "Time (ms) per inference step (CPU)": 344.5,
+      "Time (ms) per inference step (GPU)": 20
+    },
+    {
+      "Model": "EfficientNetB0",
+      "Size (MB)": 29,
+      "Top-1 Accuracy": "77.1%",
+      "Top-5 Accuracy": "93.3%",
+      "Parameters": "5.3M",
+      "Depth": 132,
+      "Time (ms) per inference step (CPU)": 46,
+      "Time (ms) per inference step (GPU)": 4.9
+    },
+    {
+      "Model": "EfficientNetB1",
+      "Size (MB)": 31,
+      "Top-1 Accuracy": "79.1%",
+      "Top-5 Accuracy": "94.4%",
+      "Parameters": "7.9M",
+      "Depth": 186,
+      "Time (ms) per inference step (CPU)": 60.2,
+      "Time (ms) per inference step (GPU)": 5.6
+    },
+    {
+      "Model": "EfficientNetB2",
+      "Size (MB)": 36,
+      "Top-1 Accuracy": "80.1%",
+      "Top-5 Accuracy": "94.9%",
+      "Parameters": "9.2M",
+      "Depth": 186,
+      "Time (ms) per inference step (CPU)": 80.8,
+      "Time (ms) per inference step (GPU)": 6.5
+    },
+    {
+      "Model": "EfficientNetB3",
+      "Size (MB)": 48,
+      "Top-1 Accuracy": "81.6%",
+      "Top-5 Accuracy": "95.7%",
+      "Parameters": "12.3M",
+      "Depth": 210,
+      "Time (ms) per inference step (CPU)": 140,
+      "Time (ms) per inference step (GPU)": 8.8
+    },
+    {
+      "Model": "EfficientNetB4",
+      "Size (MB)": 75,
+      "Top-1 Accuracy": "82.9%",
+      "Top-5 Accuracy": "96.4%",
+      "Parameters": "19.5M",
+      "Depth": 258,
+      "Time (ms) per inference step (CPU)": 308.3,
+      "Time (ms) per inference step (GPU)": 15.1
+    },
+    {
+      "Model": "EfficientNetB5",
+      "Size (MB)": 118,
+      "Top-1 Accuracy": "83.6%",
+      "Top-5 Accuracy": "96.7%",
+      "Parameters": "30.6M",
+      "Depth": 312,
+      "Time (ms) per inference step (CPU)": 579.2,
+      "Time (ms) per inference step (GPU)": 25.3
+    },
+    {
+      "Model": "EfficientNetB6",
+      "Size (MB)": 166,
+      "Top-1 Accuracy": "84.0%",
+      "Top-5 Accuracy": "96.8%",
+      "Parameters": "43.3M",
+      "Depth": 360,
+      "Time (ms) per inference step (CPU)": 958.1,
+      "Time (ms) per inference step (GPU)": 40.4
+    },
+    {
+      "Model": "EfficientNetB7",
+      "Size (MB)": 256,
+      "Top-1 Accuracy": "84.3%",
+      "Top-5 Accuracy": "97.0%",
+      "Parameters": "66.7M",
+      "Depth": 438,
+      "Time (ms) per inference step (CPU)": 1578.9,
+      "Time (ms) per inference step (GPU)": 61.6
+    },
+    {
+      "Model": "EfficientNetV2B0",
+      "Size (MB)": 29,
+      "Top-1 Accuracy": "78.7%",
+      "Top-5 Accuracy": "94.3%",
+      "Parameters": "7.2M",
+      "Depth": "-",
+      "Time (ms) per inference step (CPU)": "-",
+      "Time (ms) per inference step (GPU)": "-"
+    },
+    {
+      "Model": "EfficientNetV2B1",
+      "Size (MB)": 34,
+      "Top-1 Accuracy": "79.8%",
+      "Top-5 Accuracy": "95.0%",
+      "Parameters": "8.2M",
+      "Depth": "-",
+      "Time (ms) per inference step (CPU)": "-",
+      "Time (ms) per inference step (GPU)": "-"
+    },
+    {
+      "Model": "EfficientNetV2B2",
+      "Size (MB)": 42,
+      "Top-1 Accuracy": "80.5%",
+      "Top-5 Accuracy": "95.1%",
+      "Parameters": "10.2M",
+      "Depth": "-",
+      "Time (ms) per inference step (CPU)": "-",
+      "Time (ms) per inference step (GPU)": "-"
+    },
+    {
+      "Model": "EfficientNetV2B3",
+      "Size (MB)": 59,
+      "Top-1 Accuracy": "82.0%",
+      "Top-5 Accuracy": "95.8%",
+      "Parameters": "14.5M",
+      "Depth": "-",
+      "Time (ms) per inference step (CPU)": "-",
+      "Time (ms) per inference step (GPU)": "-"
+    },
+    {
+      "Model": "EfficientNetV2S",
+      "Size (MB)": 88,
+      "Top-1 Accuracy": "83.9%",
+      "Top-5 Accuracy": "96.7%",
+      "Parameters": "21.6M",
+      "Depth": "-",
+      "Time (ms) per inference step (CPU)": "-",
+      "Time (ms) per inference step (GPU)": "-"
+    },
+    {
+      "Model": "EfficientNetV2M",
+      "Size (MB)": 220,
+      "Top-1 Accuracy": "85.3%",
+      "Top-5 Accuracy": "97.4%",
+      "Parameters": "54.4M",
+      "Depth": "-",
+      "Time (ms) per inference step (CPU)": "-",
+      "Time (ms) per inference step (GPU)": "-"
+    },
+    {
+      "Model": "EfficientNetV2L",
+      "Size (MB)": 479,
+      "Top-1 Accuracy": "85.7%",
+      "Top-5 Accuracy": "97.5%",
+      "Parameters": "119.0M",
+      "Depth": "-",
+      "Time (ms) per inference step (CPU)": "-",
+      "Time (ms) per inference step (GPU)": "-"
+    },
+    {
+      "Model": "EfficientNetV2B0",
+      "Size (MB)": 29,
+      "Top-1 Accuracy": "78.7%",
+      "Top-5 Accuracy": "94.3%",
+      "Parameters": "7.2M",
+      "Depth": "-",
+      "Time (ms) per inference step (CPU)": "-",
+      "Time (ms) per inference step (GPU)": "-"
+    },
+    {
+      "Model": "EfficientNetV2B1",
+      "Size (MB)": 34,
+      "Top-1 Accuracy": "79.8%",
+      "Top-5 Accuracy": "95.0%",
+      "Parameters": "8.2M",
+      "Depth": "-",
+      "Time (ms) per inference step (CPU)": "-",
+      "Time (ms) per inference step (GPU)": "-"
+    },
+    {
+      "Model": "EfficientNetV2B2",
+      "Size (MB)": 42,
+      "Top-1 Accuracy": "80.5%",
+      "Top-5 Accuracy": "95.1%",
+      "Parameters": "10.2M",
+      "Depth": "-",
+      "Time (ms) per inference step (CPU)": "-",
+      "Time (ms) per inference step (GPU)": "-"
+    },
+    {
+      "Model": "EfficientNetV2B3",
+      "Size (MB)": 59,
+      "Top-1 Accuracy": "82.0%",
+      "Top-5 Accuracy": "95.8%",
+      "Parameters": "14.5M",
+      "Depth": "-",
+      "Time (ms) per inference step (CPU)": "-",
+      "Time (ms) per inference step (GPU)": "-"
+    },
+    {
+      "Model": "EfficientNetV2S",
+      "Size (MB)": 88,
+      "Top-1 Accuracy": "83.9%",
+      "Top-5 Accuracy": "96.7%",
+      "Parameters": "21.6M",
+      "Depth": "-",
+      "Time (ms) per inference step (CPU)": "-",
+      "Time (ms) per inference step (GPU)": "-"
+    },
+    {
+      "Model": "EfficientNetV2M",
+      "Size (MB)": 220,
+      "Top-1 Accuracy": "85.3%",
+      "Top-5 Accuracy": "97.4%",
+      "Parameters": "54.4M",
+      "Depth": "-",
+      "Time (ms) per inference step (CPU)": "-",
+      "Time (ms) per inference step (GPU)": "-"
+    },
+    {
+      "Model": "EfficientNetV2L",
+      "Size (MB)": 479,
+      "Top-1 Accuracy": "85.7%",
+      "Top-5 Accuracy": "97.5%",
+      "Parameters": "119.0M",
+      "Depth": "-",
+      "Time (ms) per inference step (CPU)": "-",
+      "Time (ms) per inference step (GPU)": ""
+    }
+  ]
+ }
+}
