@@ -62,7 +62,11 @@
 ### Resources ###
 - https://towardsdatascience.com/what-the-hell-is-perceptron-626217814f53
 - https://insideaiml.com/blog/Activation-Functions-in-Neural-Network-1033
-
+- https://www.geeksforgeeks.org/keras-conv2d-class/
+- https://kharshit.github.io/blog/2018/12/14/filters-in-convolutional-neural-networks
+- https://www.geeksforgeeks.org/keras-conv2d-class/
+- https://machinelearningmastery.com/convolutional-layers-for-deep-learning-neural-networks/
+- https://towardsdatascience.com/a-beginners-guide-to-convolutional-neural-networks-cnns-14649dbddce8
     
 ### External DL Projects ###
 - https://github.com/aly202012/Basic-Projects-in-Keras-Functonal-API
