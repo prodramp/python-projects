@@ -44,7 +44,7 @@
     
 <table class="table table-striped table-bordered table-vcenter">
     <tr>
-        <td align="center"><b>🔥&nbsp; YouTube Video #4:&nbsp; Create and Visualize your first Convolutional Neural Network (CNN) in Pythonk?</b></td>
+        <td align="center"><b>🔥&nbsp; YouTube Video #4:&nbsp; Create and Visualize your first Convolutional Neural Network (CNN) in Python</b></td>
     </tr>
     <tr>
         <td>
@@ -55,6 +55,19 @@
   </tr>
 </table>
     
+    
+<table class="table table-striped table-bordered table-vcenter">
+    <tr>
+        <td align="center"><b>🔥&nbsp; YouTube Video #5:&nbsp; Your first Billion params Convolutional neural network (CNN) in just few lines of code in Python</b></td>
+    </tr>
+    <tr>
+        <td>
+            <div>
+                
+[![Your first Billion params Convolutional neural network (CNN) in just few lines of code in Python](https://img.youtube.com/vi/rzL4e-sT-RU/0.jpg)](https://youtu.be/rzL4e-sT-RU)
+
+  </tr>
+</table>
 
 ![Neural Networks](https://github.com/prodramp/python-projects/blob/main/deeplearning/neural-networks.png?raw=true)
 
