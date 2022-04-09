@@ -14,3 +14,8 @@ Running locally:
 - trained_tiny_vgg.h5
 - trained_tiny_vgg.h5
 
+### Model Network ###
+
+<div className="">
+  <img src="https://github.com/prodramp/python-projects/blob/main/images/tiny-vgg-h5.png?raw=true" width="600"/>
+</div> 
