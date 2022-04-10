@@ -69,6 +69,19 @@
   </tr>
 </table>
 
+<table class="table table-striped table-bordered table-vcenter">
+    <tr>
+        <td align="center"><b>🔥&nbsp; YouTube Video #6:&nbsp; Think neural networks are hard to understand? Try CNN Explainer once..</b></td>
+    </tr>
+    <tr>
+        <td>
+            <div>
+                
+[![Think neural networks are hard to understand? Try CNN Explainer once....](https://img.youtube.com/vi/9elG_ho46u8/0.jpg)](https://youtu.be/9elG_ho46u8)
+
+  </tr>
+</table>
+
 ![Neural Networks](https://github.com/prodramp/python-projects/blob/main/deeplearning/neural-networks.png?raw=true)
 
 
