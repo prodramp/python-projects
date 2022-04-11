@@ -2,7 +2,7 @@
 
 ## Understand MNIST problem and its CNN solution using CNN Explainer ##
 
-Do you still strggle to understand the classing MNIST problem and the implementation of its solution using a simple CNN, i.e. without using any other transfer learning? If yes, this tutorial is for you. 
+Do you still struggle to understand the classing MNIST problem and the implementation of its solution using a simple CNN, i.e. without using any other transfer learning? If yes, this tutorial is for you. 
 
 In this tutorial, I have taken the MNIST solution as created by Keras team and explained it using CNN Exaplainer so those who have difficulty to understand MNIST problem and its solution, can have better understanding about it.
 
