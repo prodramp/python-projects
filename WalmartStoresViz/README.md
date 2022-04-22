@@ -11,3 +11,10 @@ Get the map specific ployly help:
 
 Use the jupyter notebook below to visualize walmart stores.
 
+Bubblemap
+
+![Image](https://github.com/prodramp/python-projects/blob/main/WalmartStoresViz/walmart-bubblemap.png?raw=true)
+
+
+Hexmap:
+![](https://github.com/prodramp/python-projects/blob/main/WalmartStoresViz/walmart-hexmap.png?raw=true)
