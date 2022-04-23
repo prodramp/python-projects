@@ -17,6 +17,9 @@
   <img src="https://github.com/prodramp/python-projects/blob/main/Walmart-SuperMarket/images/consumer-closest-store.png" width="800" />
 </div> 
 
+<div align="center">
+  <img src="https://github.com/prodramp/python-projects/blob/main/Walmart-SuperMarket/images/consumer-store-map.png" width="800" />
+</div> 
 
 ### Retail Data Analytics ###
 <div align="center">
