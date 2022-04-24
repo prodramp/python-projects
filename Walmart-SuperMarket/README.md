@@ -8,7 +8,7 @@
 - Phase 3: Stores List with Unique ID Master Data Creation
 - Phase 4: Purchase History Master Data  Creation
 - Phase 5: [Data visualization of stores and purchasing users proximity](https://github.com/prodramp/python-projects/blob/main/Walmart-SuperMarket/StoreUserProximity.md)
-- Phase 6: [Consumer Analytics](https://github.com/prodramp/python-projects/blob/main/Walmart-SuperMarket/ConsumerAnalytics.md)
+- Phase 6: [Retail Data Analytics](https://github.com/prodramp/python-projects/blob/main/Walmart-SuperMarket/ConsumerAnalytics.md)
 
 
 ### General Data Management ###
