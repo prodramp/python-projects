@@ -1,7 +1,7 @@
 # Predict Number Series based on Equation #
 
 ## Generating Numbers based on Equation
-- Quardic Equations
+- Quadratic Equations
 - Exponentials
 - Logarithmic
 - Trignometric
