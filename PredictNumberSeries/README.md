@@ -1,5 +1,9 @@
 # Predict Number Series based on Equation #
 
+<div align="center">
+  <img src="https://github.com/prodramp/python-projects/blob/main/PredictNumberSeries/images/num-series.png" width="800" />
+</div> 
+
 ## Generating Numbers based on Equation
 - Quadratic Equations
 - Exponentials
@@ -9,6 +13,10 @@
   - Cos
   - Tan
   
+<div align="center">
+  <img src="https://github.com/prodramp/python-projects/blob/main/PredictNumberSeries/images/num-forecast.png" width="800" />
+</div> 
+
 ## Using Scikit-learn Regression to generate pattern ##
 - Creating a series of numbers
 - Creation Regression Function to predict next N Numbers
