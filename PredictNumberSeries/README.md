@@ -8,7 +8,7 @@
 - Quadratic Equations
 - Exponentials
 - Logarithmic
-- Trignometric
+- Trigonometric
   - Sin
   - Cos
   - Tan
