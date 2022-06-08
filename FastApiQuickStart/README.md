@@ -59,3 +59,40 @@ if __name__ == '__main__':
 You can run your code from command prompt as below:
 
 $ uvicorn app:app --reload --port 8000
+
+### Step 5: (Optional for VS Code IDE Users ###
+
+Please use the following launch.json Run/Debug configuration in VS Code
+
+```
+{
+    // Note: Important Info
+    // 1. my main python code file name is app.py
+    // 2. My app.py location is at the root (not inside any folder)
+    // 3. My Python 3.9 runtime has all required packages..
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": "Python: FastAPI",
+            "type": "python",
+            "request": "launch",
+            "module": "uvicorn",
+            "cwd": "${workspaceFolder}/",
+            "args": [
+                "app:app", "--reload", "--port",  "8080"
+            ],
+            "jinja": true,
+            "justMyCode": true
+        },
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}
+```
